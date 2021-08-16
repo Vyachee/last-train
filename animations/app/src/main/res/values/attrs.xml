@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetPadding" format="dimension" />
+        <attr name="appWidgetInnerRadius" format="dimension" />
+        <attr name="appWidgetRadius" format="dimension" />
+    </declare-styleable>
+
+    <attr name="colorNavigationItem" format="color"/>
+    <attr name="colorNavigationItemSelected" format="color"/>
+    <attr name="drawableNavigationItemBackground" format="reference"/>
+</resources>

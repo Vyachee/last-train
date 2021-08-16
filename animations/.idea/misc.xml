@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v21/app_widget_background.xml" value="0.3234375" />
+        <entry key="app/src/main/res/drawable/alert_content.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/alert_header.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/animation3_bg.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/background_first.xml" value="0.5401041666666667" />
+        <entry key="app/src/main/res/drawable/background_second.xml" value="0.5401041666666667" />
+        <entry key="app/src/main/res/drawable/ball.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/bg.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/bt_bg.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/bt_bg2.xml" value="0.5401041666666667" />
+        <entry key="app/src/main/res/drawable/bt_stroke.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/btn_gradient_bg.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.3234375" />
+        <entry key="app/src/main/res/drawable/first_gradient.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/footer_bg.xml" value="0.3234375" />
+        <entry key="app/src/main/res/drawable/gradient_outline_bg.xml" value="0.38055555555555554" />
+        <entry key="app/src/main/res/drawable/header_bg.xml" value="0.3234375" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/line_gradient.xml" value="0.5401041666666667" />
+        <entry key="app/src/main/res/drawable/orange_button.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/popup_bg.xml" value="0.38055555555555554" />
+        <entry key="app/src/main/res/drawable/round_white.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/second_gradient.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/toast_bg.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/layout/action_menu_item.xml" value="0.25227963525835867" />
+        <entry key="app/src/main/res/layout/activity_animation.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_animation1.xml" value="0.3109375" />
+        <entry key="app/src/main/res/layout/activity_animation11.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_animation2.xml" value="0.3109375" />
+        <entry key="app/src/main/res/layout/activity_animation3.xml" value="0.625" />
+        <entry key="app/src/main/res/layout/activity_animation44.xml" value="0.3109375" />
+        <entry key="app/src/main/res/layout/activity_animation_hub.xml" value="0.3109375" />
+        <entry key="app/src/main/res/layout/activity_ball_animation.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/activity_bottom_animation.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/activity_bottom_sheet.xml" value="0.17119565217391305" />
+        <entry key="app/src/main/res/layout/activity_custom_toast.xml" value="0.2454407294832827" />
+        <entry key="app/src/main/res/layout/activity_dialogs1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_gallery_images.xml" value="0.2536231884057971" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_positioned_popup.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_snack_bar.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/app_bar_dialogs1.xml" value="0.18819655521783182" />
+        <entry key="app/src/main/res/layout/bottom_sheet.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/content_dialogs1.xml" value="0.18819655521783182" />
+        <entry key="app/src/main/res/layout/custom_snackbar.xml" value="0.25227963525835867" />
+        <entry key="app/src/main/res/layout/custom_toast.xml" value="0.25227963525835867" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.18819655521783182" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_my_dialog.xml" value="0.2536231884057971" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.18819655521783182" />
+        <entry key="app/src/main/res/layout/join_chat_widget.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/listview_item.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/menu_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/nav_header_dialogs1.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/popup.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/second_widget.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.381025641025641" />
+        <entry key="app/src/main/res/menu/dialogs1.xml" value="0.381025641025641" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

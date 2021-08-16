@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardMarginLeft">24dp</dimen>
+    <dimen name="cardMarginRight">24dp</dimen>
+    <dimen name="cardMarginBetween">12dp</dimen>
+    <dimen name="cardMarginBottom">12dp</dimen>
+</resources>
